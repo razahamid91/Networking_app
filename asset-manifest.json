@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Networking_app/static/css/main.fe2d142e.css",
+    "main.js": "/Networking_app/static/js/main.74d2f9cb.js",
+    "static/js/787.d44dc84a.chunk.js": "/Networking_app/static/js/787.d44dc84a.chunk.js",
+    "index.html": "/Networking_app/index.html",
+    "main.fe2d142e.css.map": "/Networking_app/static/css/main.fe2d142e.css.map",
+    "main.74d2f9cb.js.map": "/Networking_app/static/js/main.74d2f9cb.js.map",
+    "787.d44dc84a.chunk.js.map": "/Networking_app/static/js/787.d44dc84a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fe2d142e.css",
+    "static/js/main.74d2f9cb.js"
+  ]
+}
